@@ -1,6 +1,6 @@
 {
   "name": "react-native-amazing-cropper",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Custom react native cropper with rotation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,11 +19,8 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "@bam.tech/react-native-image-resizer": "*",
-    "@react-native-community/image-editor": "*",
     "react": "*",
-    "react-native": "*",
-    "react-native-image-rotate": "https://github.com/raduiamandi-pilot/react-native-image-rotate"
+    "react-native": "*"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "^0.0.5",
@@ -64,6 +61,8 @@
   },
   "homepage": "https://github.com/ggunti/react-native-amazing-cropper",
   "dependencies": {
+    "@bam.tech/react-native-image-resizer": "3.0.0",
+    "@react-native-community/image-editor": "2.3.0",
     "react-native-image-rotate": "https://github.com/raduiamandi-pilot/react-native-image-rotate"
   }
 }
