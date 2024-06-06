@@ -1,0 +1,593 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react/global.d.ts": {
+        "version": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc",
+        "signature": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/csstype/index.d.ts": {
+        "version": "f9d66b7d0c140496459807082ebe1bd8185a2d7478951881724b708e72fc7386",
+        "signature": "f9d66b7d0c140496459807082ebe1bd8185a2d7478951881724b708e72fc7386",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/index.d.ts": {
+        "version": "bca898ed5e156c4e4a272e3f4f39a576fe78ffd474f23857b1146279949e1460",
+        "signature": "bca898ed5e156c4e4a272e3f4f39a576fe78ffd474f23857b1146279949e1460",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/globals.d.ts": {
+        "version": "48174dd3d7c04b2593269c9a51e0e8d8de9e74b51b6ce0f18de950e3d6182e56",
+        "signature": "48174dd3d7c04b2593269c9a51e0e8d8de9e74b51b6ce0f18de950e3d6182e56",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "signature": "818a9a35cf844bd8380e9273b8ed82023c614164d0975f096b8c9b680730cbc3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "signature": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-native/devtools.d.ts": {
+        "version": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "signature": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/launchscreen.d.ts": {
+        "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-native/index.d.ts": {
+        "version": "aef3e2bce21e405dd460a6bbf986eb7c9c2f2cdb02a4afc829e5b29334b79d6b",
+        "signature": "aef3e2bce21e405dd460a6bbf986eb7c9c2f2cdb02a4afc829e5b29334b79d6b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/types.d.ts": {
+        "version": "7db84aca352c08b461286ff85e92f2d6e911b763af1f3ce90a857e6cfc1b65aa",
+        "signature": "7db84aca352c08b461286ff85e92f2d6e911b763af1f3ce90a857e6cfc1b65aa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/index.d.ts": {
+        "version": "76b9d75aeae2cc38c62110cb4988006789afd0880db5710c71f2957a169f6572",
+        "signature": "76b9d75aeae2cc38c62110cb4988006789afd0880db5710c71f2957a169f6572",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@react-native-community/image-editor/typings/index.d.ts": {
+        "version": "6c1cdbca5979e96bbfe4687a23d126ac12f17ad294eefedcb2f1f5d2ece0bbb2",
+        "signature": "6c1cdbca5979e96bbfe4687a23d126ac12f17ad294eefedcb2f1f5d2ece0bbb2",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/index.ts": {
+        "version": "5108421cd065532ae1b123917409a4902b76b2a0b7ccd2cd495d4402fd5115c9",
+        "signature": "56949096390e28a0419e43a25995af56e60791ecceea08f89be4cb529d776c9d",
+        "affectsGlobalScope": false
+      },
+      "../src/cropper/cropper.style.ts": {
+        "version": "4c32bb3259288005817477e495425fcdc01b6bc75827d586f6b6b3a2aaf97346",
+        "signature": "807b5196abf5df06575e39f5345b2c329fc2a16d04aeb411fb310fc0241c56e3",
+        "affectsGlobalScope": false
+      },
+      "../src/cropper/cropper.tsx": {
+        "version": "e7043558e06abda78c8bdb00066323d3b52683288a38e55c863c00f5e75bb362",
+        "signature": "859e121a812325a681b92941e2cfc1101fe893e8f0450327c1e7aadbc27cb9e2",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/cropper.ts": {
+        "version": "4ea380961334a4771d750bb5c7e4c5c4785f0a66904cc3bfa988cb6ca4937f63",
+        "signature": "e4c4c6efc26b62c6094cc60c421a1cd5feab4c16592e5bcbf5c4338634a38ab1",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/index.ts": {
+        "version": "5a43c3c9b8d2d2e5cb7c19b11018635269a2a0c6e546ade9960f387511bfd817",
+        "signature": "efa72570913d789e7fcd9cad7c6fdd648126e750147f79258afbf21c1444d44d",
+        "affectsGlobalScope": false
+      },
+      "../src/cropper/cropper.page.tsx": {
+        "version": "54adde3ef9e65457786777857dcb898879d972adca3782fc2e15d0d31098f5d6",
+        "signature": "23424f5b7ac7f5892361e3d99fe7a8e949fd18aeea1d5926bfba50de74a7201d",
+        "affectsGlobalScope": false
+      },
+      "../src/common/defaultfooter.tsx": {
+        "version": "49b8b0375e95f741264e251262f9f272168fddc3d775710aeac066206e4abe28",
+        "signature": "0213c3212c17215fb45130361a306ad7a762f4e9aa3826c22cfe5eff5d3c8c9b",
+        "affectsGlobalScope": false
+      },
+      "../src/common/index.ts": {
+        "version": "a1388617078042d1f3c25cb8f8101cbe1069d4cecb0ac3acfe13db426f730655",
+        "signature": "a1388617078042d1f3c25cb8f8101cbe1069d4cecb0ac3acfe13db426f730655",
+        "affectsGlobalScope": false
+      },
+      "../src/main.tsx": {
+        "version": "ef07f77540e962ce606a77fa1afe7c33783a937454d88cb565d06d96b88478a3",
+        "signature": "b65073249eefde69a2e844dcaa6c68911f2fe70f29750425a219de1b21c9f075",
+        "affectsGlobalScope": false
+      },
+      "../index.js": {
+        "version": "68a42853e3c67c88cabdc358a9cb2bcc1f06abdd8e1e0da3c153bde2311f481f",
+        "signature": "72ad2f41a20012b0930f3fd469934b66a037268786b784e3238016b8c99d155c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/types/lib/index.d.ts": {
+        "version": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85",
+        "signature": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "3db699e002d857ea05942e0b19b5091919fa5d01c21ea789c74763c9a81bb28f",
+        "signature": "3db699e002d857ea05942e0b19b5091919fa5d01c21ea789c74763c9a81bb28f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365",
+        "signature": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/babel__core/index.d.ts": {
+        "version": "52053fd8d8a5c33e12af752f30e443c672ec6dc6c49af6cd0e6889c045c08e83",
+        "signature": "52053fd8d8a5c33e12af752f30e443c672ec6dc6c49af6cd0e6889c045c08e83",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "signature": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts": {
+        "version": "9a605b7e5de905b5e67ef1dfc7fb6956275ee3f1744ded5fd314ee8b8befe7d0",
+        "signature": "9a605b7e5de905b5e67ef1dfc7fb6956275ee3f1744ded5fd314ee8b8befe7d0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts": {
+        "version": "f343673792be9436af98016a143ee1eb3dfdac69b19a128721d92f468934f449",
+        "signature": "f343673792be9436af98016a143ee1eb3dfdac69b19a128721d92f468934f449",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts": {
+        "version": "8c7776698b78f177cfdead7414cac977c6d84f134e89bbedfea4caecd04b0491",
+        "signature": "8c7776698b78f177cfdead7414cac977c6d84f134e89bbedfea4caecd04b0491",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts": {
+        "version": "4f71cbe0899e77e2e0b471ae3191bf3dc443585b69f97e0a01a5d1755c9669cd",
+        "signature": "4f71cbe0899e77e2e0b471ae3191bf3dc443585b69f97e0a01a5d1755c9669cd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": {
+        "version": "36ac719aa6fed99efd288f993b2ca637873827fd25d99875b39307b937148e06",
+        "signature": "36ac719aa6fed99efd288f993b2ca637873827fd25d99875b39307b937148e06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts": {
+        "version": "6ed4f0568165065f03426b1333999c5b9f528d92936eee0ba432537b7cd9a88e",
+        "signature": "6ed4f0568165065f03426b1333999c5b9f528d92936eee0ba432537b7cd9a88e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": {
+        "version": "faa1eda9eb6c80210343ea752d64ba06ae0d14f670676ab069ec7047c4f96512",
+        "signature": "faa1eda9eb6c80210343ea752d64ba06ae0d14f670676ab069ec7047c4f96512",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/index.d.ts": {
+        "version": "a1f0433bc3626449030784a859d9953ff4becaeffb329068e28c929854ccfe0d",
+        "signature": "a1f0433bc3626449030784a859d9953ff4becaeffb329068e28c929854ccfe0d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/json-schema/index.d.ts": {
+        "version": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1",
+        "signature": "92bc43ea5584457c9325a3d5b2ce5af77df6d2653be7e4c2e9a626f89293c3c1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-test-renderer/index.d.ts": {
+        "version": "d2f627d7522642fb0558962f922597551953eccd88e671eb83d842464c544d24",
+        "signature": "d2f627d7522642fb0558962f922597551953eccd88e671eb83d842464c544d24",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/yargs/index.d.ts": {
+        "version": "6abb79139f7ef312c035e120adbd3c1ce7e9295d7bbd270e42fe6ef5b98fb1fe",
+        "signature": "6abb79139f7ef312c035e120adbd3c1ce7e9295d7bbd270e42fe6ef5b98fb1fe",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 99,
+      "module": 5,
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "allowJs": true,
+      "jsx": 3,
+      "declaration": true,
+      "outDir": "./",
+      "incremental": true,
+      "isolatedModules": true,
+      "strict": true,
+      "moduleResolution": 2,
+      "baseUrl": "..",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../index.js": [
+        "../src/common/index.ts",
+        "../src/main.tsx"
+      ],
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/index.d.ts": [
+        "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/types.d.ts"
+      ],
+      "../node_modules/@types/babel__core/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts",
+        "../node_modules/@types/babel__generator/index.d.ts",
+        "../node_modules/@types/babel__template/index.d.ts",
+        "../node_modules/@types/babel__traverse/index.d.ts"
+      ],
+      "../node_modules/@types/babel__generator/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__template/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__traverse/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/jest/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
+        "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-test-renderer/index.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../src/common/defaultfooter.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../src/common/index.ts": [
+        "../src/common/defaultfooter.tsx"
+      ],
+      "../src/constants/index.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../src/cropper/cropper.page.tsx": [
+        "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/index.d.ts",
+        "../node_modules/@react-native-community/image-editor/typings/index.d.ts",
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../src/constants/index.ts",
+        "../src/cropper/cropper.tsx",
+        "../src/utils/index.ts"
+      ],
+      "../src/cropper/cropper.style.ts": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/cropper/cropper.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts",
+        "../src/cropper/cropper.style.ts"
+      ],
+      "../src/main.tsx": [
+        "../node_modules/@types/react/index.d.ts",
+        "../src/common/index.ts",
+        "../src/constants/index.ts",
+        "../src/cropper/cropper.page.tsx"
+      ],
+      "../src/utils/index.ts": [
+        "../src/utils/cropper.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/index.d.ts": [
+        "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/types.d.ts"
+      ],
+      "../node_modules/@types/babel__core/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts",
+        "../node_modules/@types/babel__generator/index.d.ts",
+        "../node_modules/@types/babel__template/index.d.ts",
+        "../node_modules/@types/babel__traverse/index.d.ts"
+      ],
+      "../node_modules/@types/babel__generator/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__template/index.d.ts": [
+        "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/babel__traverse/index.d.ts": [
+        "../node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "../node_modules/@types/istanbul-reports/index.d.ts": [
+        "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "../node_modules/@types/istanbul-lib-report/index.d.ts"
+      ],
+      "../node_modules/@types/jest/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
+        "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts": [
+        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
+        "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts"
+      ],
+      "../node_modules/@types/react-native/devtools.d.ts": [
+        "../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../node_modules/@types/react-native/index.d.ts": [
+        "../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../node_modules/@types/react-native/devtools.d.ts",
+        "../node_modules/@types/react-native/globals.d.ts",
+        "../node_modules/@types/react-native/launchscreen.d.ts",
+        "../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../node_modules/@types/react-test-renderer/index.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../node_modules/@types/yargs/index.d.ts": [
+        "../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../src/common/defaultfooter.tsx": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../src/common/index.ts": [
+        "../src/common/defaultfooter.tsx"
+      ],
+      "../src/cropper/cropper.page.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../src/cropper/cropper.tsx": [
+        "../node_modules/@types/react-native/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../src/main.tsx": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../src/utils/index.ts": [
+        "../src/utils/cropper.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../index.js",
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "../node_modules/@babel/types/lib/index.d.ts",
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/index.d.ts",
+      "../node_modules/@bam.tech/react-native-image-resizer/lib/typescript/src/types.d.ts",
+      "../node_modules/@react-native-community/image-editor/typings/index.d.ts",
+      "../node_modules/@types/babel__core/index.d.ts",
+      "../node_modules/@types/babel__generator/index.d.ts",
+      "../node_modules/@types/babel__template/index.d.ts",
+      "../node_modules/@types/babel__traverse/index.d.ts",
+      "../node_modules/@types/color-name/index.d.ts",
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "../node_modules/@types/istanbul-lib-report/index.d.ts",
+      "../node_modules/@types/istanbul-reports/index.d.ts",
+      "../node_modules/@types/jest/index.d.ts",
+      "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/@types/jest/node_modules/jest-diff/build/difflines.d.ts",
+      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
+      "../node_modules/@types/jest/node_modules/jest-diff/build/printdiffs.d.ts",
+      "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts",
+      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts",
+      "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts",
+      "../node_modules/@types/json-schema/index.d.ts",
+      "../node_modules/@types/prop-types/index.d.ts",
+      "../node_modules/@types/react-native/batchedbridge.d.ts",
+      "../node_modules/@types/react-native/devtools.d.ts",
+      "../node_modules/@types/react-native/globals.d.ts",
+      "../node_modules/@types/react-native/index.d.ts",
+      "../node_modules/@types/react-native/launchscreen.d.ts",
+      "../node_modules/@types/react-native/legacy-properties.d.ts",
+      "../node_modules/@types/react-test-renderer/index.d.ts",
+      "../node_modules/@types/react/global.d.ts",
+      "../node_modules/@types/react/index.d.ts",
+      "../node_modules/@types/stack-utils/index.d.ts",
+      "../node_modules/@types/yargs-parser/index.d.ts",
+      "../node_modules/@types/yargs/index.d.ts",
+      "../node_modules/csstype/index.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/common/defaultfooter.tsx",
+      "../src/common/index.ts",
+      "../src/constants/index.ts",
+      "../src/cropper/cropper.page.tsx",
+      "../src/cropper/cropper.style.ts",
+      "../src/cropper/cropper.tsx",
+      "../src/main.tsx",
+      "../src/utils/cropper.ts",
+      "../src/utils/index.ts"
+    ]
+  },
+  "version": "3.9.10"
+}
