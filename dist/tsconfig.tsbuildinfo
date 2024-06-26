@@ -147,7 +147,7 @@
         "affectsGlobalScope": false
       },
       "../src/cropper/cropper.page.tsx": {
-        "version": "54adde3ef9e65457786777857dcb898879d972adca3782fc2e15d0d31098f5d6",
+        "version": "ccd2090f50b4194223a54ca56927332146d4d4715c48cbf6ee63559dea566b5c",
         "signature": "23424f5b7ac7f5892361e3d99fe7a8e949fd18aeea1d5926bfba50de74a7201d",
         "affectsGlobalScope": false
       },
